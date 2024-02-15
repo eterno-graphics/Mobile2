@@ -1,16 +1,2 @@
-# zadanie2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="499" alt="Снимок экрана 2024-02-15 в 14 53 26" src="https://github.com/GYBR1w/zadanieFlex/assets/49815054/58825318-9a69-4415-aa24-26e2debd2e75">
+<img width="965" alt="Снимок экрана 2024-02-15 в 14 55 56" src="https://github.com/GYBR1w/zadanieFlex/assets/49815054/3e7a928a-b7d8-4686-aaba-313eecd3af2c">
