@@ -2,11 +2,13 @@
 
 ## Шкаф без цифр 
 
-![image](https://github.com/eterno-graphics/Mobile2/assets/144318390/1b08d26b-81df-472c-8e83-ae083a882230)
-![image](https://github.com/eterno-graphics/Mobile2/assets/144318390/feb49b7b-447f-4f43-b81b-60e34e6c4366)
+<img width="676" alt="Снимок экрана 2024-03-28 в 13 39 26" src="https://github.com/eterno-graphics/Mobile2/assets/144318390/31e540c0-3049-4311-b76c-41178ac45b95">
+<img width="1866" alt="Снимок экрана 2024-03-28 в 13 39 59" src="https://github.com/eterno-graphics/Mobile2/assets/144318390/bbe5e5d2-bd7e-4cb0-af39-d819f878b5a5">
+
 
 
 ## Шкаф с цифрами
 
 ![image](https://github.com/eterno-graphics/Mobile2/assets/144318390/538e404a-1d30-40ea-83b2-1b2226fcfcbe)
-![image](https://github.com/eterno-graphics/Mobile2/assets/144318390/69a44daa-c009-4964-9985-329c0e74e420)
+
+<img width="683" alt="Снимок экрана 2024-03-28 в 13 36 35" src="https://github.com/eterno-graphics/Mobile2/assets/144318390/91a6da28-7498-4acc-8747-4bc7547da5e3">
